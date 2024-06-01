@@ -20,7 +20,8 @@ Hello! I'm Remi Vorobiev, a passionate software developer with a strong affinity
   - **Sega Genesis/Mega Drive**: Programmed in 68000 assembly to produce games and demos for Sega's 16-bit powerhouse.
   - **PlayStation**: Worked with MIPS assembly and C to develop for Sony's groundbreaking console.
 
-- **Graphic Programming**: Skilled in using DirectX and other graphics APIs to create visually stunning applications.
+- **Graphic Programming**: Skilled in using DirectX and other graphics APIs to create visually stunning applications and games alike.
+- **Game Dev**: Skilled at using Unreal Engine (from UE2 to UE5) in C++ and Blueprint. Experienced with Unity's C#. Also experienced with C++ on CryEngine.
 - **Programming Languages**: Avid coder in C++ and C. Deep knowledge of assembly languages such as 6502, m68k, x86, and MIPS.
 - **Networking**: Intermediate experience with almost everything related to networking, including setting up and managing network infrastructure, troubleshooting connectivity issues, and implementing network security measures.
 
