@@ -25,6 +25,6 @@ Hello! I'm Remi Vorobiev, a passionate software developer with a strong affinity
 - **Programming Languages**: Avid coder in C++ and C. Deep knowledge of assembly languages such as 6502, m68k, x86, and MIPS.
 - **Networking**: Intermediate experience with almost everything related to networking, including setting up and managing network infrastructure, troubleshooting connectivity issues, and implementing network security measures.
 - **Audio Programming**: Experienced with programming audio software and hardware. Skilled in leveraging Max MSP to make plugins + C++ for VST plugin development.
-- **Hardware Development**: Skilled in designing and developing custom hardware solutions and implementations. This includes having worked on clones of a retro video game console soundchips such as SN76489, YM2612, 2A03, etc.
+- **Hardware Development**: Skilled in designing and developing custom hardware solutions and implementations. This includes having worked on clones of retro video game console soundchips such as SN76489, YM2612, 2A03, etc.
 
 Feel free to connect with me if you share similar interests or if you have any exciting projects in mind!
