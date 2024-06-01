@@ -2,7 +2,6 @@
 
 ## Location
 - Munich, Germany
-- Melbourne, Australia
 
 ## Education
 - Technische Universität München, Munich, Germany
