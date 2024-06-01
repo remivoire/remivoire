@@ -5,7 +5,7 @@
 - Melbourne, Australia
 
 ## Education
-- Technische Universität München
+- Technische Universität München, Munich, Germany
 
 ## About Me
 Hello! I'm Remi Vorobiev, a passionate software developer with a strong affinity for retro hardware and graphic programming. I have extensive experience working with DirectX and various other graphics APIs. My primary programming languages are C++ and C, but I'm also proficient in several assembly languages including 6502, m68k, x86, and MIPS.
@@ -21,4 +21,7 @@ Hello! I'm Remi Vorobiev, a passionate software developer with a strong affinity
   - **PlayStation**: Worked with MIPS assembly and C to develop for Sony's groundbreaking console.
 
 - **Graphic Programming**: Skilled in using DirectX and other graphics APIs to create visually stunning applications.
-- **Programming Languages**: Avid coder in C++ and C. Deep knowledge of assembly languages for different architectures.
+- **Programming Languages**: Avid coder in C++ and C. Deep knowledge of assembly languages such as 6502, m68k, x86, and MIPS.
+- **Networking**: Intermediate experience with almost everything related to networking, including setting up and managing network infrastructure, troubleshooting connectivity issues, and implementing network security measures.
+
+Feel free to connect with me if you share similar interests or if you have any exciting projects in mind!
